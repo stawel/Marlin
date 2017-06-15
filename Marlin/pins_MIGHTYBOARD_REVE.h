@@ -125,7 +125,8 @@
 //
 // Temperature Sensors
 //
-#define TEMP_BED_PIN        69   // K7
+// wt150
+#define TEMP_BED_PIN        15  //69   // K7
 
 // SPI for Max6675 or Max31855 Thermocouple
 // Uses a separate SPI bus
